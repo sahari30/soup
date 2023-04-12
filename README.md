@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
