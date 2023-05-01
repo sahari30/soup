@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+OBB: Fix plot_images (#7592)
