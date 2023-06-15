@@ -1,1 +1,1 @@
-example Google Colab
+Add docs guide terminal images (#8819)
