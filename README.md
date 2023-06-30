@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Update neural-magic.md (#7347)
