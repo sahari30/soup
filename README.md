@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add docstrings to new HUB functions (#7576)
