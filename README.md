@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix heatmaps width-height order bug (#7184)
