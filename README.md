@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
