@@ -1,1 +1,1 @@
-Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
+YOLOv8 INT8 TFLite Inference Example (#7317)
