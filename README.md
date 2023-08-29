@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Clarify triton server boolean value (#8532)
