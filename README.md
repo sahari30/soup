@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Fix Neural Magic links (#9144)
