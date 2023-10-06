@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Elaborate Train and Predict mode docs arguments (#8137)
