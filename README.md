@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
