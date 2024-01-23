@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Feature: Create HUB Models from CLI or Python Script (#7316)
