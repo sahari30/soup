@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Allow Annotator PIL.Image inputs (#8397)
