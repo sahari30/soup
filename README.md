@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix undefined ‘im_array’ bug in predict.md (#8565)
