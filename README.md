@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
