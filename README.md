@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
