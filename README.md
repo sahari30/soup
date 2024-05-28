@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add visuals in guides/distance-calculation.md (#7876)
