@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Remove unused variables (#8511)
