@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix docker.yaml double-quote version bug (#7452)
