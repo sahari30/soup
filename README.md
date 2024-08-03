@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
