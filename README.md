@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
