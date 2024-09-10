@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add docstrings to new HUB functions (#7576)
