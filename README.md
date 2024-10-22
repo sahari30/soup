@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Compare plt.get_backend() in lowercase (#8409)
