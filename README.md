@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Retry once for Docker CI failures (#8164)
